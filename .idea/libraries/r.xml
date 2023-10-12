@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="r">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Programas/Code/Dependencias/mysql-connector-j-8.1.0/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Programas/Code/Dependencias/mysql-connector-j-8.1.0/rs2xml.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
